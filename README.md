@@ -1,5 +1,5 @@
 # Tutorial_html
-Paso a Paso :)
+Paso a Paso :
 
 ![imagen1](./img/1.png)
 ![imagen1](./img/2.png)
